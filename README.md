@@ -34,6 +34,7 @@ Files named based on type of simulation, which is desribed in Anderson et al. 20
       HWP:units = "" ;
       HWP:stagger = "" ;
       HWP:coordinates = "XLAT XLONG XTIME" ;
+      NOTE: HWP was presented by dividing this HWP by 10 based on the Equation S1
 
     * float PHOTR4(Time,bottom_top,south_north,west_east) ;
       PHOTR4:_FillValue = NaNf ;
