@@ -8,7 +8,7 @@ Variables are described bellow:
 * Min Latitude, Max Latitude: 47, 49
 * Min Longitude, Max Longitude: -119.5, -116.5
 
-Files named based on type of simulation, which is desribed in Anderson et al. 2025 (submitted to AGU JGR: Atmospheres):
+Files named based on type of simulation, which is desribed in Anderson et al., 2025 (submitted to AGU JGR: Atmospheres):
 * BaseCase: HRRR-Chem (Control) 
 * hwp_v1: NO$_x$-Updated HRRR-Chem
 * hwp_HalfVOC: NO$_x$-Updated HRRR-Chem Half VOC
@@ -34,7 +34,7 @@ Files named based on type of simulation, which is desribed in Anderson et al. 20
       HWP:units = "" ;
       HWP:stagger = "" ;
       HWP:coordinates = "XLAT XLONG XTIME" ;
-      NOTE: HWP was presented by dividing this HWP by 10 based on the Equation S1
+      NOTE: HWP was presented by dividing this HWP by 10 based on the Equation S3 in the Supporting Information of Anderson et al., 2025
 
     * float PHOTR4(Time,bottom_top,south_north,west_east) ;
       PHOTR4:_FillValue = NaNf ;
