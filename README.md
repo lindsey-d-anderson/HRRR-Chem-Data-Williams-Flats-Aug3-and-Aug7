@@ -1,4 +1,4 @@
-# HRRR-Chem Data for the Williams Flats Wildifre on August 3 and August 7
+# HRRR-Chem Data for the Williams Flats Wildfire on August 3 and August 7
 
 Last updated by Lindsey D. Anderson on June 29, 2025
 
